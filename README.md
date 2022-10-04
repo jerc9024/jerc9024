@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Srisant Toppo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="100%" src="https://blog.pratik.net.in/assets/Background-image.png">
+<img align="right" alt="Coding" width="100%" src="https://jerc9024.github.io/jerc9024/cdn/profile.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerc9024&label=Profile%20views&color=0e75b6&style=flat" alt="jerc9024" /> </p>
 
